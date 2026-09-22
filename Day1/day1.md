@@ -116,7 +116,3 @@ System Design is the process of defining the **architecture, components, modules
 - **Caching Strategies:** Cache-aside, Read-through, Write-through, Write-back.
 - **Database Sharding & Replication:** Horizontal partitioning and Leader-Follower setups.
 - **CAP Theorem:** Consistency, Availability, Partition Tolerance (choose two).
-
----
-
-*This lecture summary is compiled based on the video: [What is system design process in software engineering ?](https://www.youtube.com/watch?v=43-X22tdxiI).*
