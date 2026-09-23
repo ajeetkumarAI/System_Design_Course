@@ -1,4 +1,4 @@
-# Day 3: Monolithic vs. Microservices Architecture (FAANG Deep Dive)
+# Day 3: Monolithic vs. Microservices Architecture
 
 ---
 
