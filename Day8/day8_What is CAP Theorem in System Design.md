@@ -1,7 +1,5 @@
 # What is CAP Theorem in System Design?
 
-This guide summarizes the key concepts from the video **"What is CAP theorem in Hindi?"** by Engineering Digest, tailored for System Design Interviews (HLD).
-
 ---
 
 ## 1. What is CAP Theorem?
