@@ -30,7 +30,7 @@ You’ll learn concepts like:
 * Monitoring
 
 **Level 2 — Cloud system design**
-We'll map the concepts to Google Cloud:
+We'll map the concepts to Cloud:
 
 | General concept | Google Cloud                     |
 | --------------- | -------------------------------- |
